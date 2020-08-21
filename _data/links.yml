@@ -1,0 +1,90 @@
+- categories:
+  - name: 购物
+    links:
+    - name: 淘宝
+      style: orange
+      url: https://www.taobao.com/
+
+    - name: 天猫
+      style: red
+      url: https://www.tmall.com/
+
+    - name: 京东
+      style: basic
+      url: https://www.jd.com/
+
+    - name: Amazon
+      icon: amazon yellow
+      style: basic
+      url: https://www.amazon.cn/
+
+    - name: Apple
+      style: basic
+      icon: apple grey
+      url: https://www.apple.com/
+
+    - name: 一号店
+      style: basic
+      url: https://www.yhd.com/
+
+    - name: 当当
+      style: basic
+      url: http://www.dangdang.com/
+
+    # - name: 严选
+    #   style: basic
+    #   url: http://you.163.com/
+
+    - name: UNIQLO
+      style: red
+      url: http://www.uniqlo.cn/
+
+    - name: MUJI
+      style: basic
+      url: http://www.muji.com.cn/
+
+    - name: IKEA
+      style: yellow
+      url: https://www.ikea.cn/
+
+    - name: Decathlon
+      style: blue
+      url: https://www.decathlon.com.cn/
+
+    - name: 造作
+      style: basic
+      url: https://zaozuo.com/
+
+    - name: 锤子
+      style: basic
+      url: http://www.smartisan.com/
+
+    - name: 大疆
+      style: black
+      url: https://www.dji.com/
+
+    - name: 小米
+      style: orange
+      url: https://www.mi.com/
+
+    - name: 有品
+      style: brown
+      url: https://xiaomiyoupin.com/
+
+  - name: 工具
+    links:
+    - name: '12306'
+      icon: train red
+      style: basic
+      url: http://www.12306.cn/
+
+    - name: 快递查询
+      icon: truck olive
+      style: basic
+      url: http://www.kuaidi100.com/
+
+    - name: 大众点评
+      icon: utensils orange
+      style: basic
+      url: http://www.dianping.com/
+

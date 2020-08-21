@@ -1,0 +1,39 @@
+repository: sadnecc.github.io
+repository_url: https://github.com/sadnecc/sadnecc.github.io
+
+timezone: Asia/Zhengzhou
+lang: zh_CN
+
+title: 空格冲鸭 · Bot-NC
+alias_en: Bot-NC
+alias_cn: 空格冲鸭
+description: A Navigation Website for BN
+keywords: 空格冲鸭, Bot-NC, Bot, Nc
+url: https://bbaidu.com
+established_at: "2020-08-20T00:00+08:00"
+
+author: iROCKBUNNY
+author_url: https://irockbunny.com
+organization: TEELAB
+organization_url: https://teelab.net
+contact: contact[at]irockbunny[dot]com
+
+image: /images/logo.png
+logo: /images/logo.png
+logo_dark: /images/logo-dark.svg
+logo_white: /images/logo-white.svg
+
+plugins:
+- jekyll-seo-tag
+- jekyll-sitemap
+
+exclude:
+- .gitignore
+- .travis.yml
+- LICENSE
+- README.md
+- CNAME
+- Gemfile
+- Gemfile.lock
+- script
+- vendor
